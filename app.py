@@ -1,6 +1,6 @@
 import os
 import fitz  # PyMuPDF for PDF processing
-import faiss
+import faiss 
 import numpy as np
 import pickle
 import streamlit as st
